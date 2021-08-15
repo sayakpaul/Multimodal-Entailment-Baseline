@@ -23,3 +23,5 @@ The accompanying blog post [remarks](https://github.com/keras-team/keras-io/pull
 ## Acknowledgements
 
 Thanks to the [ML-GDE program](https://developers.google.com/programs/experts/) for providing GCP credits.
+
+Thanks to [Nilabhra Roy Chowdhury](https://de.linkedin.com/in/nilabhraroychowdhury) who worked on preparing the image data.
