@@ -12,7 +12,7 @@ blog post goes over additional details, thought experiments, notes, etc.
 
 ### A fun fact
 
-The accompanying blog post [remarks](https://github.com/keras-team/keras-io/pull/581#issuecomment-899003346) the 100th example on keras.io.
+The accompanying blog post [marks](https://github.com/keras-team/keras-io/pull/581#issuecomment-899003346) the 100th example on keras.io.
 
 ## About the notebooks
 
