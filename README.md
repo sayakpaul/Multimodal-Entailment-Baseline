@@ -6,8 +6,8 @@ of these models looks like so:
 
 <sup>High-resolution version is available [here](https://github.com/sayakpaul/Multimodal-Entailment-Baseline/blob/main/figures/model_architecture.png).</sup>
 
-These models use the multimodal entailment dataset introduced [here](https://multimodal-entailment.github.io/). This repository
-is best followed along with this blog post on keras.io: [Multimodal entailment](https://keras.io/examples/nlp/multimodal_entailment/). The
+These models use the multimodal entailment dataset introduced [here](https://github.com/google-research-datasets/recognizing-multimodal-entailment). This
+repository is best followed along with this blog post on keras.io: [Multimodal entailment](https://keras.io/examples/nlp/multimodal_entailment/). The
 blog post goes over additional details, thought experiments, notes, etc.
 
 ### A fun fact
